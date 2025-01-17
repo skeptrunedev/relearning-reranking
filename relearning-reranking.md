@@ -7,7 +7,7 @@ theme: gaia
 
 <!-- _footer: '[github.com/skeptrunedev/relearning-reranking](https://github.com/skeptrunedev/relearning-reranking)' -->
 
-![bg right:50%](https://trieve.b-cdn.net/relearning-ranking/relearning-reranking-chalk.webp)
+![bg right:50% width:98%](https://trieve.b-cdn.net/relearning-ranking/presentation-qr.png)
 
 # Relearning Ranking
 
